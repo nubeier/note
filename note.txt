@@ -1,0 +1,6 @@
+git config --global user.name "zhangsan" 设置用户名
+git config --global user.email "邮箱地址"  设置邮箱
+mkdir homework    创建一个目录  homework
+cd  homework    进入homework
+git init   把当前目录作为可管理的版本库
+
